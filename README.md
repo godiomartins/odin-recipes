@@ -1,5 +1,13 @@
-# odin-recipes
-Página de receitas criada com o propósito de solidificar os conhecimentos, tanto em HTML quanto em GIT, obtidos até aqui.
+# Odin Recipes
+Página de receitas criada com o intuito de praticar os conhecimentos, tanto em HTML quanto em GIT, apresentados durante a parte inicial do programa "Foundations" em **The Odin Project**.
 
-Tecnologias usadas:
-HTML
+**[Demo](https://godiomartins.github.io/odin-recipes/)**
+
+## Tecnologias usadas:
+**HTML**
+
+Thanks to:
+**[The Odin Project](https://www.theodinproject.com/)**
+
+
+:br:
