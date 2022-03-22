@@ -1,0 +1,74 @@
+html {
+  font-family: Arial, sans-serif;
+  background-color: whitesmoke;
+}
+
+body, h1.header-title__logo {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: crimson;
+}
+
+.header-title {
+  padding: 35px 0 35px 20px ;
+  color: white;
+  background-color: crimson;
+  margin-bottom: 20px;
+}
+
+.header-title__logo {
+  font-size: 38px;
+}
+
+.header-title__moto {
+  margin: 0px;
+}
+
+.receita {
+  margin: 10px 0 0 20px;
+  display: inline-block;
+  padding: 10px;
+  width: 250px;
+  background-color: white;
+  border-radius: 15px;
+}
+
+.receita__imagem {
+  height: 200px;
+  width: 250px;
+  border-radius: 10px;
+}
+
+
+.receita__link {
+  margin: 0;
+  text-decoration: none;
+  color: crimson;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.receita__link p:hover {
+  text-decoration: underline;
+}
+
+p {
+  margin: 13px 0 0 0;
+}
+
+p.receita__meta {
+  margin: 2px 0 15px 0;
+}
+
+.receita__meta {
+  font-size: 13px;
+  color: tomato;
+}
+
+/* Receitas */
+.conteudo {
+  padding-left: 20px;
+}
