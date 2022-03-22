@@ -1,6 +1,6 @@
 # Odin Recipes
 
-**`HTML`**
+**`HTML`**  **`CSS`**
 
 Página de receitas criada com o intuito de praticar e solidificar os conhecimentos básicos sobre HTML adquiridos durante a parte inicial do programa "Foundations" em **The Odin Project**.
   
